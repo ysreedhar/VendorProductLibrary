@@ -1,0 +1,5 @@
+C:\Sreedhar\Works\VendorProductLibrary\VendorProductLibrary\bin\VendorProductLibrary.dll
+C:\Sreedhar\Works\VendorProductLibrary\VendorProductLibrary\bin\VendorProductLibrary.pdb
+C:\Sreedhar\Works\VendorProductLibrary\VendorProductLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Sreedhar\Works\VendorProductLibrary\VendorProductLibrary\obj\Debug\VendorProductLibrary.dll
+C:\Sreedhar\Works\VendorProductLibrary\VendorProductLibrary\obj\Debug\VendorProductLibrary.pdb
